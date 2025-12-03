@@ -20,3 +20,4 @@ Notes and usage details for Delphi-MCP-Server.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
