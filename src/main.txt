@@ -42,3 +42,4 @@ Native Delphi Server implementation of the Model Context Protocol (MCP)
 # clarify the control flow
 # avoid re-reading the config on every call
 # drop an unused branch
+# drop an unused branch
